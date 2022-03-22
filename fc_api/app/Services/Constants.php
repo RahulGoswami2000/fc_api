@@ -26,10 +26,8 @@ define('MSG_EMAIL_ALREADY_EXIST', 'Email already exist.');
 define('MSG_USER_EDIT_SUCESS', 'Employee edited successfully');
 define('MSG_USER_INSERTION_SUCESS', 'Employee added successfully.');
 define('MSG_USER_DELETION_SUCESS', 'Employee has been  deleted successfully.');
-define('MSG_GROUP_PERMISSION_INSERTION_SUCESS', 'Group permission has been changed successfully.');
 define('MSG_PASSWORD_CHANGE_SUCESS', 'Password change successfully.');
 define('MSG_PROFILE_CHANGE_SUCESS', 'Profile hase been changed successfully.');
-define('MSG_GROUP_PERMISSION_RESET_SUCCESS', 'Group permission has been reseted successfully.');
 
 /**
  * Forgot Password
